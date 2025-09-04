@@ -50,11 +50,16 @@ const PROJECTS: Project[] = [
     ]  },
   {
     "id": 4,
-    "title": "EcoPack Packaging Design",
-    "category": "Packaging",
+    
+  "title": "Wasla Project",
+  "category": "Branding",
+  "description": "An eco-friendly delivery company focused on sustainability.",
+  "detailedDescription": "Wasla is a sustainable delivery company that combines speed and environmental responsibility. It relies on eco-friendly transportation such as bicycles and fuel-efficient cars, uses recyclable paper packaging and bags, and builds a strong visual identity in green and blue colors that reflect both nature and trust."
+
+,
+    
     "imageUrl": "https://res.cloudinary.com/ddxnntc2u/image/upload/v1756947770/%D9%83%D9%88%D9%83%D8%A8_x-0%D9%A1_mgmt2e.jpg",
-    "description": "Sustainable and creative packaging solutions for an eco-friendly product line.",
-    "detailedDescription": "EcoPack required packaging that was not only visually appealing but also environmentally friendly. I designed a system of recyclable and biodegradable packaging for their line of organic snacks. The design uses earthy tones, clean typography, and custom illustrations to highlight the natural quality of the products. The project balanced aesthetic appeal with practical, sustainable constraints.",
+   
      "gallery": [
       "https://res.cloudinary.com/ddxnntc2u/image/upload/v1756947776/%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9_%D8%B4%D8%A8_x-0%D9%A1_u3vnvu.jpg",
       "https://res.cloudinary.com/ddxnntc2u/image/upload/v1756947772/%D8%B4%D8%AC%D8%B1%D8%A9_x-0%D9%A1_f1lzmb.jpg",
@@ -70,6 +75,7 @@ const PROJECTS: Project[] = [
       "https://res.cloudinary.com/ddxnntc2u/image/upload/v1756947741/Free_Paper_Square_Box_Mockup11_jkclmh.jpg"
           ]
   }
+  
 ];
 
 
