@@ -15,7 +15,7 @@ const About: React.FC = () => {
           <div className="relative group w-48 h-48 md:w-60 md:h-60 flex-shrink-0">
             <div className="absolute -inset-2 bg-gradient-to-r from-accent to-red-800 rounded-full blur opacity-50 group-hover:opacity-75 transition duration-1000 group-hover:duration-200 animate-tilt"></div>
             <img
-              src="https://picsum.photos/seed/kamel/500/500"
+              src="https://res.cloudinary.com/ddxnntc2u/image/upload/v1757026337/Generated_Image_September_05_2025_-_1_50AM_iuftsu.jpg"
               alt="Kamel Rahmoun"
               className="relative rounded-full w-full h-full aspect-square object-cover border-4 border-secondary shadow-lg"
             />

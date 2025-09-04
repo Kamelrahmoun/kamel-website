@@ -84,25 +84,25 @@ export const TIMELINE_MILESTONES: Milestone[] = [
   {
     year: "2022",
     title: "Started Graphic Design Journey",
-    description: "Began my studies, diving into the fundamental principles of design theory, color, and typography that form the foundation of my work.",
+    description: " Studied the fundamentals of design, including color theory, typography, and composition, building a strong creative foundation.",
     icon: BookOpenIcon,
   },
   {
     year: "2023",
     title: "Mastered the Adobe Suite",
-    description: "Gained proficiency in industry-standard tools like Illustrator, Photoshop, and After Effects, enabling me to turn complex concepts into digital art.",
+    description: "Gained advanced skills in Illustrator, Photoshop, After Effects, and Premiere, enabling me to create both static and motion-based designs.",
     icon: PenToolIcon,
   },
   {
     year: "2024",
-    title: "Explored UI/UX Design",
-    description: "Expanded my skills into user interface and experience design, learning to craft intuitive and visually compelling digital experiences using Figma.",
+    title: "Professional Growth in Visual Identity",
+    description: "Reached a near-professional level in design tools and brand identity creation. Managed high-pressure projects and delivered all tasks on time with precision.",
     icon: LayoutIcon,
   },
   {
     year: "Present",
     title: "Freelance & Portfolio Building",
-    description: "Actively taking on freelance projects and building a diverse portfolio to showcase my creative solutions and passion for design.",
+    description: "Currently working on freelance projects and expanding my portfolio to showcase creative solutions and innovative design approaches.",
     icon: BriefcaseIcon,
   },
 ];
