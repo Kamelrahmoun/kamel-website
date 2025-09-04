@@ -74,7 +74,7 @@ const PROJECTS: Project[] = [
       "https://res.cloudinary.com/ddxnntc2u/image/upload/v1756947741/Free_Paper_Square_Box_Mockup11_jkclmh.jpg",
     "https://res.cloudinary.com/ddxnntc2u/image/upload/v1756947770/%D9%83%D9%88%D9%83%D8%A8_x-0%D9%A1_mgmt2e.jpg"
           ]
-  
+  }
 ];
 
 
