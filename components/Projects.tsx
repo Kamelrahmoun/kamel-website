@@ -54,14 +54,13 @@ const PROJECTS: Project[] = [
   "title": "Wasla Project",
   "category": "Branding",
   "description": "An eco-friendly delivery company focused on sustainability.",
-  "detailedDescription": "Wasla is a sustainable delivery company that combines speed and environmental responsibility. It relies on eco-friendly transportation such as bicycles and fuel-efficient cars, uses recyclable paper packaging and bags, and builds a strong visual identity in green and blue colors that reflect both nature and trust."
+  "detailedDescription": "Wasla is a sustainab delivery company that combines speed and environmental responsibility. It relies on eco-friendly transportation such as bicycles and fuel-efficient cars, uses recyclable paper packaging and bags, and builds a strong visual identity in green and blue colors that reflect both nature and trust."
 
 ,
     
-    "imageUrl": "https://res.cloudinary.com/ddxnntc2u/image/upload/v1756947770/%D9%83%D9%88%D9%83%D8%A8_x-0%D9%A1_mgmt2e.jpg",
+    "imageUrl": "https://res.cloudinary.com/ddxnntc2u/image/upload/v1756947776/%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9_%D8%B4%D8%A8_x-0%D9%A1_u3vnvu.jpg",
    
      "gallery": [
-      "https://res.cloudinary.com/ddxnntc2u/image/upload/v1756947776/%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9_%D8%B4%D8%A8_x-0%D9%A1_u3vnvu.jpg",
       "https://res.cloudinary.com/ddxnntc2u/image/upload/v1756947772/%D8%B4%D8%AC%D8%B1%D8%A9_x-0%D9%A1_f1lzmb.jpg",
       "https://res.cloudinary.com/ddxnntc2u/image/upload/v1756947770/%D9%83%D9%88%D9%83%D8%A8_x-0%D9%A1_mgmt2e.jpg",
       "https://res.cloudinary.com/ddxnntc2u/image/upload/v1756947758/%D8%B5%D9%86%D8%AF%D9%88%D9%82_x-0%D9%A1_vhvtww.jpg",
@@ -72,9 +71,9 @@ const PROJECTS: Project[] = [
       "https://res.cloudinary.com/ddxnntc2u/image/upload/v1756947748/Mailer_Bag_Mockup_3_buhevh.jpg",
       "https://res.cloudinary.com/ddxnntc2u/image/upload/v1756947745/Envelope_With_String_Mockup_pzotme.jpg",
       "https://res.cloudinary.com/ddxnntc2u/image/upload/v1756947742/Car_Mockup_Free_PSD_dngndl.jpg",
-      "https://res.cloudinary.com/ddxnntc2u/image/upload/v1756947741/Free_Paper_Square_Box_Mockup11_jkclmh.jpg"
+      "https://res.cloudinary.com/ddxnntc2u/image/upload/v1756947741/Free_Paper_Square_Box_Mockup11_jkclmh.jpg",
+    "https://res.cloudinary.com/ddxnntc2u/image/upload/v1756947770/%D9%83%D9%88%D9%83%D8%A8_x-0%D9%A1_mgmt2e.jpg"
           ]
-  }
   
 ];
 
