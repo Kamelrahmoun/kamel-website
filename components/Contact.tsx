@@ -29,7 +29,7 @@ const Contact: React.FC = () => {
                     className="text-lg text-light/80 hover:text-accent transition-colors duration-300"
                     aria-label="Email Kamel Rahmoun"
                 >
-                    kamel.rahmoun@example.com
+                    abosaidalomar880@gmail.com
                 </a>
             </div>
 
@@ -44,7 +44,7 @@ const Contact: React.FC = () => {
                     className="text-lg text-light/80 hover:text-accent transition-colors duration-300"
                     aria-label="Call Kamel Rahmoun"
                 >
-                    +1 (555) 123-4567
+                   +963 936 762 507
                 </a>
             </div>
 

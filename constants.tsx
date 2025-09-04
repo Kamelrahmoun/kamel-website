@@ -66,10 +66,10 @@ export const SKILLS: Skill[] = [
 ];
 
 export const SOCIAL_LINKS = {
-  email: "mailto:kamel.rahmoun@example.com",
-  phone: "tel:+15551234567",
-  facebook: "https://www.facebook.com/",
-  whatsapp: "https://wa.me/15551234567"
+  email: "mailto:abosaidalomar880@gmail.com",
+  phone: "tel:+963936762507",
+  facebook: "https://www.facebook.com/share/1AD3gbAT7k/",
+  whatsapp: "https://wa.me/+963936762507"
 };
 
 
@@ -120,7 +120,7 @@ export const CORE_SERVICES: Service[] = [
         icon: BrandingIcon,
     },
     {
-        title: "UI/UX Design",
+        title: "motion graphics",
         description: "Designing intuitive, user-centric interfaces for web and mobile applications.",
         icon: UiUxIcon,
     },
